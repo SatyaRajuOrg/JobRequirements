@@ -1,0 +1,53 @@
+- Total Experience 12- 15 years
+
+- Relevant Experience 6 8 years (design/develop enterprise mobile application)
+
+- Experience in delivering mobile application in the role of Mobile SME/Technical Lead/Architect
+
+- Must have architected at least 3 to 5 end to end solutions in either Hybrid or Native mobile technologies
+
+- Exposure to mobile offerings on cloud
+
+- Working knowledge of the enterprise mobile landscape, architectures, trends, and incubating emerging technologies
+
+- Demonstrated deployments of enterprise or consumer facing mobile applications using industry standard platform like Android and/or iOS
+
+- Basic awareness on automated functional/manual testing tools
+
+- Hands-on experience in Configuration & Build Management Tools such as GIT / SVN, Jenkins, Maven, Bamboo etc
+
+- Strong understanding of commonly used design patterns, MVC and Object Oriented development, UML Modeling, Mobile application Integration concepts
+
+- Well versed in custom UI design, Persistent Storage model, consuming SOAP / RESTful web services, asynchronous operations & callbacks, and debugging skills.
+
+- Good understanding of full mobile development life cycle and ability to collaborate with cross-functional teams
+
+- Strong understanding of Mobile Security around applications and containers
+
+- Deep expertise on minimum one mobile platform - Native Android/iOS or Hybrid
+
+- Hands - on experience in developing native / hybrid applications in at least one of the below mobile technologies (AND) Working knowledge in another, in the Enterprise Mobility space.
+
+o Android
+
+Activities, Fragments, AsyncTasks / Threads, Layouts, Services, Broadcasts, Callbacks, Media/ Animations/ gestures/ sensors.
+
+Expertise on Android OS, Core Java, XML Designing and Custom Views XML, JSON, SOAP Java JDK, Android Studio (IDE), Android SDK Android Monitor, Android Device Monitor SQLite, SharedPreference Service, Intent Service, Thread and BroadcastReceivers Google Play Services, Material Designs, Object Parsing Libraries and Network Libraries.
+
+o iOS
+
+Storyboards , Auto layouts, ARC , Custom Protocols , Notifications , GCD , Operations , Provisioning , Media / Animations / gestures / sensors.
+
+Expertise on Objective-C, Swift, XML, SOAP, JSON, XCode, iOS SDK, XCode Instruments, Memory Management, ARC CoreData, SQLite, GCD NSOperation, Objective-C threads.
+
+- Experience in Mobile web / hybrid - HTML5, jQuery, Angular JS, CSS3, MVC, AJAX, Rich UI development
+
+- Good in Troubleshooting technical problems/issues, Identifying solutions to key challenges
+
+Communication Skills
+
+- Must have very good oral and written communication skill
+
+- Must have experience in presenting technical topics to large audiences
+
+- Experience in writing technical articles and white papers is a plus
